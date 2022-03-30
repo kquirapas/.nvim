@@ -1,0 +1,2 @@
+
+print("Life OS loaded");
